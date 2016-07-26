@@ -1,0 +1,39 @@
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Bot Application1.dll.config
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Bot Application1.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Bot Application1.pdb
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Autofac.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Chronic.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.Bot.Builder.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.Bot.Connector.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Newtonsoft.Json.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.Net.Http.Formatting.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.Web.Http.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.Web.Http.WebHost.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Autofac.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.Bot.Builder.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.Bot.Connector.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\Newtonsoft.Json.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.Net.Http.Formatting.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.Web.Http.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\System.Web.Http.WebHost.xml
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\obj\Release\pnubot.csprojResolveAssemblyReference.cache
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\obj\Release\Bot Application1.dll
+C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\obj\Release\Bot Application1.pdb
