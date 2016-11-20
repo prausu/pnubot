@@ -111,8 +111,47 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="amenity.htm" />
+    <Content Include="amenity2.png" />
+    <Content Include="amenity3.png" />
+    <Content Include="atm.htm" />
+    <Content Include="atm.png" />
+    <Content Include="facebook.html" />
+    <Content Include="facebook2.png" />
+    <Content Include="library2.png" />
+    <Content Include="library3.png" />
+    <Content Include="location3.png" />
+    <Content Include="location2.png" />
+    <Content Include="meals2.png" />
+    <Content Include="meals3.png" />
+    <Content Include="post.htm" />
+    <Content Include="post.png" />
+    <Content Include="schedule.htm" />
     <Content Include="default.htm" />
+    <Content Include="meals.htm" />
     <Content Include="Global.asax" />
+    <Content Include="library.htm" />
+    <Content Include="location.htm" />
+    <Content Include="PNU_BASIC-00-1.gif" />
+    <Content Include="schedule2.png" />
+    <Content Include="schedule3.png" />
+    <Content Include="tlee_style.css" />
+    <Content Include="uPNU_common\css\base.css" />
+    <Content Include="uPNU_common\css\skip.css" />
+    <Content Include="uPNU_common\js\jquery\jquery-1.9.1.js" />
+    <Content Include="uPNU_homepage\kr\css\sub\sub_content.css" />
+    <Content Include="uPNU_homepage\kr\css\sub\sub_layout.css" />
+    <Content Include="uPNU_homepage\kr\img\common\icon_01.gif" />
+    <Content Include="uPNU_homepage\kr\js\structure.js" />
+    <Content Include="uPNU_homepage\kr\pages\campus_map.asp" />
+    <Content Include="uPNU_homepage\kr\pages\img\campus_map_01.jpg" />
+    <Content Include="uPNU_homepage\kr\pages\img\campus_map_bg01.gif" />
+    <Content Include="uPNU_homepage\kr\pages\img\campus_map_bg02.gif" />
+    <Content Include="uPNU_homepage\kr\pages\img\campus_map_bg_tab.gif" />
+    <Content Include="uPNU_homepage\kr\pages\img\campus_map_logo.gif" />
+    <Content Include="uPNU_homepage\kr\pages\img\pointer.png" />
+    <Content Include="uPNU_homepage\kr\pages\img\sub_01_07_03_bg_dot.gif" />
+    <Content Include="uPNU_homepage\kr\pages\img\sub_01_07_03_title01.png" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -126,14 +165,21 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages.config" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Properties\PublishProfiles\pnubot - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\pnubot - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\pnubot.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="uPNU_homepage\kr\pages\img\campus_map_img\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

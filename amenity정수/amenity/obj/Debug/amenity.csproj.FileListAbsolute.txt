@@ -1,0 +1,39 @@
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Bot Application1.dll.config
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Bot Application1.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Bot Application1.pdb
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Autofac.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Chronic.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.Bot.Builder.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.Bot.Connector.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Newtonsoft.Json.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.Net.Http.Formatting.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.Web.Http.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.Web.Http.WebHost.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Autofac.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.Bot.Builder.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.Bot.Connector.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\Newtonsoft.Json.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.Net.Http.Formatting.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.Web.Http.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\System.Web.Http.WebHost.xml
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\obj\Debug\amenity.csprojResolveAssemblyReference.cache
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\obj\Debug\Bot Application1.dll
+C:\Users\이서준\documents\visual studio 2015\Projects\amenity\amenity\obj\Debug\Bot Application1.pdb

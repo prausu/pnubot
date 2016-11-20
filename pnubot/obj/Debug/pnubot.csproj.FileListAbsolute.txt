@@ -37,3 +37,42 @@ C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\bin\zh-hans\Microsoft.Bot.Builder.
 C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\obj\Debug\pnubot.csprojResolveAssemblyReference.cache
 C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\obj\Debug\Bot Application1.dll
 C:\Users\k\Source\Repos\NewRepo\pnubot\pnubot\obj\Debug\Bot Application1.pdb
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Bot Application1.dll.config
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Bot Application1.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Bot Application1.pdb
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Autofac.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Chronic.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.Bot.Builder.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.Bot.Connector.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Newtonsoft.Json.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.Net.Http.Formatting.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.Web.Http.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.Web.Http.WebHost.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Autofac.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.Bot.Builder.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.Bot.Connector.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\Newtonsoft.Json.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.Net.Http.Formatting.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.Web.Http.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\System.Web.Http.WebHost.xml
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\obj\Debug\pnubot.csprojResolveAssemblyReference.cache
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\obj\Debug\Bot Application1.dll
+D:\Users\hyun\Desktop\한이음\pnubot\pnubot\obj\Debug\Bot Application1.pdb

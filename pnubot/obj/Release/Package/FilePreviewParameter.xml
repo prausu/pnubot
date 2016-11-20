@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="pnubot" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Users\\hyun\\Desktop\\한이음\\pnubot\\pnubot\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Users\\hyun\\Desktop\\한이음\\pnubot\\pnubot\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

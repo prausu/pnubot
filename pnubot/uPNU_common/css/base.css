@@ -1,0 +1,41 @@
+/* base */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, feldset, input, textarea, p, blockquote, border, th, td{
+	margin:0;
+	padding:0;
+}
+.nobody {
+	background: none;
+}
+
+body {
+	color:#333;
+	font-size:0.75em;
+	font-family:Dotum,Gulim,Verdana,AppleGothic,sans-serif,arial;
+	line-height:1.6em;
+	_background: none;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight:400;
+	font-size:1em;
+}
+
+ol, ul, li {
+	list-style:none;
+}
+
+form, fieldset, img{border:0; padding:0;}
+img {vertical-align:middle;}
+label {cursor:pointer;}
+address, cation, em {
+	font-weight:normal;
+	font-style:normal;
+}
+caption{display:none;}
+/* a */
+
+a{color:#333; text-decoration:none;}
+a:hover{color:#000000;}
+a:active{color:#000000;}
+a:focus{color:#333;}

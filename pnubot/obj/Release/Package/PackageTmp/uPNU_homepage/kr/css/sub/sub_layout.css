@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+/* @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css); */
+/* @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700); */
+
+@font-face {
+     font-family:'NanumGothic';
+     font-weight:normal;
+     font-style:normal;
+     src: url('/uPNU_common/css/font/NanumGothic.eot');
+     src: local('?'), 
+          url('/uPNU_common/css/font/NanumGothic.eot?#iefix') format('embedded-opentype'),
+          url('/uPNU_common/css/font/NanumGothic.woff2') format('woff2'),
+          url('/uPNU_common/css/font/NanumGothic.woff') format('woff'),
+          url('/uPNU_common/css/font/NanumGothic.ttf') format('truetype');     
+}
+
+@font-face {
+     font-family:'NanumGothicBold';
+     font-weight:normal;
+     font-style:normal;
+     src: url('/uPNU_common/css/font/NanumGothicBold.eot');
+     src: local('?'), 
+          url('/uPNU_common/css/font/NanumGothicBold.eot?#iefix') format('embedded-opentype'),
+          url('/uPNU_common/css/font/NanumGothicBold.woff') format('woff'),
+          url('/uPNU_common/css/font/NanumGothicBold.ttf') format('truetype');
+}
+
+body {
+	position:relative; 
+	padding:0; 
+	margin:0;
+	font-family:'NanumGothic', '나눔고딕', "돋움", Dotum, "굴림", Gulim, Open Sans, Verdana, AppleGothic, sans-serif;
+	font-style:normal;
+}
+
+.container {position:relative;width:100%;}
+
+.header { width:100%; height:100px; border-bottom:1px solid #e7e9ea; }
+.inner_header {position:relative; width:1000px; margin:0 auto; z-index:1}
+
+.main { width:100%; }
+.sub_visual {width:100%; height:190px;}
+#content_wrap { position:relative; width:1000px; margin:0 auto; padding-bottom:60px; background:url(../../img/sub/bg_sub_content.gif) repeat-y right 0;}
+#content_wrap:after{ content:""; display:block; clear:both}
+.content { float:left; width:870px; padding-top:50px}
+.quick_wrap { float:right; width:55px; height:430px; margin-top:110px; z-index:1;}
+
+#footer_wrap {clear:both; width:100%;left:20px; clear:both; background:#f9f9f9;}
+.link_box { width:100%; border-top:1px solid #d9dcdd; border-bottom:1px solid #d9dcdd; background:#f9f9f9;}
+.footer {position:relative; width:1000px; height:100px; margin:0 auto; padding-top:20px; background:#f9f9f9;}
+
+
+
+
+
+

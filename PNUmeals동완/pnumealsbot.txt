@@ -1,0 +1,11 @@
+http://pnumealsguide.azurewebsites.net
+
+PNUmeals 앱이름
+315860e8-77cd-4ea3-9729-f9a4ccb53b75 앱아이디
+WZZxsjYim81jAHkr8YSMGAw 암호
+
+secret
+ARtpoMYdSLE.cwA.LvA.1u_tb4r3Es65MjsAxfSFH7lnw7reSV32rRaXW9EK69k 
+
+Embed template
+<iframe src='https://webchat.botframework.com/embed/PNUmealsbot?s=YOUR_SECRET_HERE'></iframe>
